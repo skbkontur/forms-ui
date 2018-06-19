@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/skbkontur/forms-ui/issues"
   },
-  "homepage": "https://github.com/skbkontur/forms-ui#readme"
+  "homepage": "https://github.com/skbkontur/forms-ui#readme",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
 }
