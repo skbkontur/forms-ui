@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/skbkontur/forms-ui#readme",
   "devDependencies": {
+    "prettier": "1.13.5",
     "typescript": "^2.9.2"
   }
 }
