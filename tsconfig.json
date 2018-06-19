@@ -12,6 +12,8 @@
     "noFallthroughCasesInSwitch": true,
     "forceConsistentCasingInFileNames": true,
 
-    "esModuleInterop": true
+    "esModuleInterop": true,
+
+    "plugins": [{ "name": "tslint-language-service" }]
   }
 }

@@ -19,6 +19,9 @@
   "homepage": "https://github.com/skbkontur/forms-ui#readme",
   "devDependencies": {
     "prettier": "1.13.5",
+    "tslint": "^5.10.0",
+    "tslint-config-prettier": "^1.13.0",
+    "tslint-language-service": "^0.9.9",
     "typescript": "^2.9.2"
   }
 }
