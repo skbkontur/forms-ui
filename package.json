@@ -1,5 +1,5 @@
 {
-  "name": "forms-ui",
+  "name": "@skbkontur/forms-ui",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/skbkontur/forms-ui.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dmitry Lazarev <dmitry.lazarev@skbkontur.ru>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/skbkontur/forms-ui/issues"
   },
