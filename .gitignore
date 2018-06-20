@@ -8,5 +8,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-build/
+lib/
 node_modules/
